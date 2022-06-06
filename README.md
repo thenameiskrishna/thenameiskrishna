@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thenameiskrishna
-- 👀 I’m interested in Web Developement and Java Developer
+- 👀 I’m interested in Web Developement(front end & backend) and Java Developer
 - 🌱 I’m currently learning DSA
 - 💞️ 
 - 📫 How to reach me instagram- @thenameis.krishna and Gmail id- krishnasinghchauhan3@gmail.com, and Mobile No.- +919354210642
